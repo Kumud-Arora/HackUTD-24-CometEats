@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+header {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers content vertically */
+    align-items: center;    /* Centers content horizontally */
+    margin: 0;              /* Removes any default margin */
+    text-align: center;     /* Centers text inside elements */
+    font-family: 'ComicSans';
+    text-align: center;
+    font-size: 1.75rem;
+}
