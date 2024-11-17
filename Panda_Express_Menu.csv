@@ -1,0 +1,33 @@
+Category,Item,Calories,Price
+Meal,Bowl,240-1010,$6.10
+Meal,Plate,390-1500,$7.20
+Meal,Bigger Plate,540-1990,$8.70
+Meal,Family Feast,240-1990 per person,$32.00
+Entrée,Orange Chicken,490,Spicy
+Entrée,String Bean Chicken Breast,190,Wok Smart
+Entrée,Kung Pao Chicken,290,"Spicy, Wok Smart"
+Entrée,Mushroom Chicken,220,Wok Smart
+Entrée,Beijing Beef,470,Spicy
+Entrée,Broccoli Beef,150,Wok Smart
+Entrée,Shanghai Angus Steak,310,*Additional Premium Charge
+Entrée,Honey Walnut Shrimp,360,*Additional Premium Charge
+Entrée,Grilled Teriyaki Chicken,340,Wok Smart
+Entrée,SweetFire Chicken Breast,380,Spicy
+Entrée,Black Pepper Chicken,280,Wok Smart
+Side,Chow Mein,510,
+Side,Super Greens,90,
+Side,Fried Rice,520,
+Side,White Steamed Rice,380,
+Side,Brown Steamed Rice,420,
+A La Carte,Entrees (Sm),150-1960,$3.90 | Premium $5.15
+A La Carte,Entrees (Med),150-1960,$7.20 | Premium $9.40
+A La Carte,Entrees (Lg),150-1960,$9.90 | Premium $13.65
+A La Carte,Sides (Med),90-1040,$2.90
+A La Carte,Sides (Lg),90-1040,$3.90
+More Choices,Chicken Egg Roll,200,$1.95
+More Choices,Veggie Spring Rolls (2),190,$1.95
+More Choices,Cream Cheese Rangoons (3),190,$1.95
+Drink,Fountain,0-510,$1.99 | $2.09 | $2.19
+Drink,Bottled Water,0,$1.89
+Drink,Bottled Drinks,0-240,$1.99
+Drink,Juice,170-180,$2.09
